@@ -119,7 +119,7 @@
 #slider {
   position: relative;
   padding-top: 50%;
-  background: url(../assets/img/slide.jpg) top center / cover no-repeat;
+  background: url(../img/slide.jpg) top center / cover no-repeat;
   margin-top: 46px;
 }
 
